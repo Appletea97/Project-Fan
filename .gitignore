@@ -1,0 +1,15 @@
+# build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+
+# IDE / workspace noise (선택)
+.metadata/
+*.launch
+
